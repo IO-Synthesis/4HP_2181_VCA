@@ -1,0 +1,37 @@
+Partlist exported from C:/Users/Erik/Documents/GitHub/4HP_2181_VCA/4HP_2181_VCA.sch at 4/30/2017 8:24 AM
+
+Part Value                     Device                    Package               Description                                       PROD_ID    VALUE   
+C1   47pF                      CAP0603-CAP               0603-CAP              Capacitor                                                            
+C2   10uF                      CAPACITOR_POL-CASE_B      CASE_B                Polarized capacitor in various packages                              
+C3   10uF                      CAPACITOR_POL-CASE_B      CASE_B                Polarized capacitor in various packages                              
+C4   10uF                      CAPACITOR_POL-CASE_B      CASE_B                Polarized capacitor in various packages                              
+C5   1.5nF                     CAP0603-CAP               0603-CAP              Capacitor                                                            
+C6   100nF                     CAP0603-CAP               0603-CAP              Capacitor                                                            
+C7   100nF                     CAP0603-CAP               0603-CAP              Capacitor                                                            
+CV1  THONKICONNOLD             THONKICONNOLD             THONKICONN            3.5mm socket for Eurorack modular synths                             
+CV2  THONKICONNOLD             THONKICONNOLD             THONKICONN            3.5mm socket for Eurorack modular synths                             
+CVA  100KL                     POTS9MM_MOUNTED_2MMH      9MM_W/MOUNTS-2MMHOLES                                                                      
+CVB  100KL                     POTS9MM_MOUNTED_2MMH      9MM_W/MOUNTS-2MMHOLES                                                                      
+D1                             DIODE-SOD-123             SOD-123               Various Diode Packages                                               
+D2                             DIODE-SOD-123             SOD-123               Various Diode Packages                                               
+FB1  30O/1.8A                  FERRITE_BEAD-0603         0603                  Ferrite Bead (blocks, cores, rings, chokes, etc.) NDUC-07859 30O/1.8A
+FB2  30O/1.8A                  FERRITE_BEAD-0603         0603                  Ferrite Bead (blocks, cores, rings, chokes, etc.) NDUC-07859 30O/1.8A
+GAIN 100KL                     POTS9MM_MOUNTED_2MMH      9MM_W/MOUNTS-2MMHOLES                                                                      
+IC1                            THAT2181C                 SIL8                                                                                       
+IC2                            DUALSMD                   SO08                  OP AMP                                                               
+IN   THONKICONNOLD             THONKICONNOLD             THONKICONN            3.5mm socket for Eurorack modular synths                             
+OUT  THONKICONNOLD             THONKICONNOLD             THONKICONN            3.5mm socket for Eurorack modular synths                             
+R1   4.12K                     RESISTOR0603-RES          0603-RES              Resistor                                                             
+R2   100K                      RESISTOR0603-RES          0603-RES              Resistor                                                             
+R3   20K                       RESISTOR0603-RES          0603-RES              Resistor                                                             
+R4   1K                        RESISTOR0603-RES          0603-RES              Resistor                                                             
+R5   6.8K                      RESISTOR0603-RES          0603-RES              Resistor                                                             
+R6   100K                      RESISTOR0603-RES          0603-RES              Resistor                                                             
+R7   100K                      RESISTOR0603-RES          0603-RES              Resistor                                                             
+R8   100K                      RESISTOR0603-RES          0603-RES              Resistor                                                             
+R9   20K                       RESISTOR0603-RES          0603-RES              Resistor                                                             
+R10  51R                       RESISTOR0603-RES          0603-RES              Resistor                                                             
+R11  100R                      RESISTOR0603-RES          0603-RES              Resistor                                                             
+R12  47K                       RESISTOR0603-RES          0603-RES              Resistor                                                             
+SV1  EURO_POWER_HEADERFAT_PADS EURO_POWER_HEADERFAT_PADS EURO_PWR_HEADER_FAT   Power Header                                                         
+SYM  100K                      TRIM_US-S64W              S64W                  POTENTIOMETER                                                        
